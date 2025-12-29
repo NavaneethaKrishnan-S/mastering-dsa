@@ -1,4 +1,4 @@
-package org.eminds.dsaconcepts.array;
+package com.masteringdsa.dsaconcepts.array;
 
 public class Main {
     public static void main(String[] args){
